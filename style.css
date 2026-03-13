@@ -1,0 +1,15 @@
+/* CSS or Cascading Style Sheets coding */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Roboto, Arial, sans-serif; /* fallback fonts in case Roboto isn't available */
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
